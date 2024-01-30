@@ -112,26 +112,26 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "mailto:your.name@email.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://www.aiclass.kr/" 
+      url: "https://www.aiclass.kr/" 
     - label: "Youtube"
       icon: "fab fa-fw fa-youtube"
-      # url: "https://www.youtube.com/@runbuild"
+      url: "https://www.youtube.com/@runbuild"
 
 # Site Footer
 footer:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "mailto:your.name@email.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://www.aiclass.kr/" 
+      url: "https://www.aiclass.kr/" 
     - label: "Youtube"
       icon: "fab fa-fw fa-youtube"
-      # url: "https://www.youtube.com/@runbuild"
+      url: "https://www.youtube.com/@runbuild"
 
 # Reading Files
 include:
