@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "aqua" # "air", "aqua", "contrast", "dark", "dirt", "
 locale                   : "ko-KR"
 title                    : "Runbuild"
 title_separator          : "|"
-subtitle                 : "runbuild create with ai chatGPT"
+subtitle                 : "run build contents with ai"
 name                     : "Runbuilder"
 description              : "런빌드의 블로그 입니다."
 url                      : "runbuilder.github.io"
@@ -104,11 +104,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  name             : "런빌드"
+  avatar           : "/assets/images/avatar.jpg"
+  bio              : "**런빌드** 블로그"
+  location         : "South Korea"
+  email            : "openaiteacher@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
