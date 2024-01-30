@@ -111,9 +111,6 @@ author:
   email            : "openaiteacher@gmail.com"
   links:
     - label: "Website"
-      icon: "fas fa-fw fa-link""
-      url: "https://open.kakao.com/me/runbuild"
-    - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://www.aiclass.kr/" 
     - label: "Youtube"
