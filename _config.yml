@@ -104,34 +104,34 @@ analytics:
 
 # Site Author
 author:
-  name             : "runbuilder"
-  avatar           : "/assets/images/avatar.jpg"
-  bio              : "**런빌드** 블로그"
+  #name             : "runbuilder"
+  #avatar           : "/assets/images/avatar.jpg"
+  bio              : "**런빌더** 블로그"
   location         : "South Korea"
   email            : "openaiteacher@gmail.com"
   links:
-    - label: "kakao"
+    - label: "카톡"
       icon: "fas fa-fw fa-comment"
       url: "https://open.kakao.com/me/runbuild"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://www.aiclass.kr/" 
     - label: "Youtube"
       icon: "fab fa-fw fa-youtube"
       url: "https://www.youtube.com/@runbuild"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.aiclass.kr/" 
 
 # Site Footer
 footer:
   links:
-    - label: "kakao"
+    - label: "카톡"
       icon: "fas fa-fw fa-comments"
       url: "https://open.kakao.com/me/runbuild"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://www.aiclass.kr/" 
     - label: "Youtube"
       icon: "fab fa-fw fa-youtube"
       url: "https://www.youtube.com/@runbuild"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.aiclass.kr/" 
 
 # Reading Files
 include:
