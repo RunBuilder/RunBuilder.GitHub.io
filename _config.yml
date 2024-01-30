@@ -111,7 +111,7 @@ author:
   email            : "openaiteacher@gmail.com"
   links:
     - label: "kakao"
-      icon: "fas fa-fw fa-link"
+      icon: "fas fa-fw fa-comment"
       url: "https://open.kakao.com/me/runbuild"
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -124,7 +124,7 @@ author:
 footer:
   links:
     - label: "kakao"
-      icon: "fas fa-fw fa-link"
+      icon: "fas fa-fw fa-comments"
       url: "https://open.kakao.com/me/runbuild"
     - label: "Website"
       icon: "fas fa-fw fa-link"
