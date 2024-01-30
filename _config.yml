@@ -110,6 +110,9 @@ author:
   location         : "South Korea"
   email            : "openaiteacher@gmail.com"
   links:
+    - label: "kakao"
+      icon: "fas fa-fw fa-link"
+      url: "https://open.kakao.com/me/runbuild"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://www.aiclass.kr/" 
@@ -120,8 +123,8 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link""
+    - label: "kakao"
+      icon: "fas fa-fw fa-link"
       url: "https://open.kakao.com/me/runbuild"
     - label: "Website"
       icon: "fas fa-fw fa-link"
